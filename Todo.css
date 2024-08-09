@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: honeydew;
+}
+h1{
+    color: darkorange;
+    font-size: 32px;
+}
+input{
+    text-align: center;
+    margin: 5px;
+}
+button{
+    border-radius: 2px;
+}
+li{
+ margin: 5px;
+ 
+ display: flex;
+}
+span{ 
+    display: flex;
+} 
